@@ -1,0 +1,11 @@
+{
+    "name": "jesus/gg-free",
+    "authors": [
+        {
+            "name": "Gian"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "^3.0"
+    }
+}
